@@ -1,0 +1,9 @@
+#server:
+#  port: 8082
+#  servlet:
+#    context-path: /dubbosvr
+
+zookeeper:
+  host: 192.168.137.131
+  port: 2181
+
